@@ -1,1 +1,1 @@
-# Neural Network from programmed in raw Python code. 
+# Neural Network programmed in raw Python code. 
